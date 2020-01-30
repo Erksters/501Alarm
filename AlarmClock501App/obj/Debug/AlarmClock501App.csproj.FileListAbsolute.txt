@@ -1,0 +1,10 @@
+C:\Users\erkst\source\repos\AlarmClock501App\AlarmClock501App\bin\Debug\AlarmClock501App.exe.config
+C:\Users\erkst\source\repos\AlarmClock501App\AlarmClock501App\bin\Debug\AlarmClock501App.exe
+C:\Users\erkst\source\repos\AlarmClock501App\AlarmClock501App\bin\Debug\AlarmClock501App.pdb
+C:\Users\erkst\source\repos\AlarmClock501App\AlarmClock501App\obj\Debug\AlarmClock501App.csprojAssemblyReference.cache
+C:\Users\erkst\source\repos\AlarmClock501App\AlarmClock501App\obj\Debug\AlarmClock501App.AddAlarmForm.resources
+C:\Users\erkst\source\repos\AlarmClock501App\AlarmClock501App\obj\Debug\AlarmClock501App.AllAlarmsForm.resources
+C:\Users\erkst\source\repos\AlarmClock501App\AlarmClock501App\obj\Debug\AlarmClock501App.Properties.Resources.resources
+C:\Users\erkst\source\repos\AlarmClock501App\AlarmClock501App\obj\Debug\AlarmClock501App.csproj.GenerateResource.cache
+C:\Users\erkst\source\repos\AlarmClock501App\AlarmClock501App\obj\Debug\AlarmClock501App.exe
+C:\Users\erkst\source\repos\AlarmClock501App\AlarmClock501App\obj\Debug\AlarmClock501App.pdb
