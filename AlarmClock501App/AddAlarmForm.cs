@@ -19,6 +19,12 @@ namespace AlarmClock501App
             InitializeComponent();
         }
 
+        public AddAlarmForm(DateTime EditDate)
+        {
+            InitializeComponent();
+            dateTimePicker1.Value = EditDate;
+        }
+
         private void SetButton_Click(object sender, EventArgs e)
         {
             Time = dateTimePicker1.Value;
